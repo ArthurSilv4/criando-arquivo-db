@@ -2,7 +2,7 @@
 
 
 # Portfolio
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/ArthurSilv4/criando-db/blob/master/LICENSE)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/ArthurSilv4/criando-arquivo-db/blob/master/LICENSE)
 
 # Sobre o projeto
 
