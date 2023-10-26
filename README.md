@@ -20,5 +20,5 @@ Fiz uma inserção no banco para cada arquivo
 
 Arthur de Souza Silva
 
-https://www.linkedin.com/in/arthur-de-souza-dev/
+https://www.linkedin.com/in/arthur-souza-dev/
 
